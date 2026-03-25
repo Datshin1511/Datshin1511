@@ -1,7 +1,7 @@
 # Datshin Rajesh
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Finance+and+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FFB703&center=true&vCenter=true&width=500&lines=Software+Engineer;Finance+and+Tech" />
 </p>
 
 ---
